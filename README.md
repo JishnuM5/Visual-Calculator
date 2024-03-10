@@ -1,22 +1,22 @@
 Features of Code: 
-	Error Checking ( 3 Points)
+	Error Checking
 		Protected against Extra Spacing
 		Fixing Dates
 		*See List of Error Messages*
 		
 	Can Reference FormulaCells with formulas in other FormulaCells ( 3 Points )
 	
-	BigDecimal (Unlimited Precision) ( 3 Points)
+	BigDecimal (Unlimited Precision)
 		BigFormulaCell
 		Can Sort and Sum w/ FormulaCell
 
 	Showing Steps of FormulaCell, but not Showing if Referencing ErrorCell ( 2 Points)
 	
-	Exponent ( 1 Points )
+	Exponent
 	
-	Parentheses ( 3 Points )
+	Parentheses
 	
-	Order of Op ( 5 Points )
+	Order of Op
 	
 
 List of All Current Possible Error Messages:
