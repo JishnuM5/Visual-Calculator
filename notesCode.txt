@@ -1,0 +1,41 @@
+Features of Code: 
+	Error Checking ( 3 Points)
+		Protected against Extra Spacing
+		Fixing Dates
+		*See List of Error Messages*
+		
+	Can Reference FormulaCells with formulas in other FormulaCells ( 3 Points )
+	
+	BigDecimal (Unlimited Precision) ( 3 Points)
+		BigFormulaCell
+		Can Sort and Sum w/ FormulaCell
+
+	Showing Steps of FormulaCell, but not Showing if Referencing ErrorCell ( 2 Points)
+	
+	Exponent ( 1 Points )
+	
+	Parentheses ( 3 Points )
+	
+	Order of Op ( 5 Points )
+	
+
+List of All Current Possible Error Messages:
+	invalid input command
+	invalid text input
+	Invalid date input 
+	Invalid formula input
+	invalid coordinate expression
+	invalid cell range (SUM/AVG/SORT)
+	multiple types in cell range
+	blank input
+	one or more cells out of bounds
+	
+	FormulaCell Errors
+		blank input
+		no valid operator found
+		reference to invalid cell
+		invalid expression
+		missing parenthesis
+		divide by 0
+		invalid exponent
+	Any of above errors inside parentheses
