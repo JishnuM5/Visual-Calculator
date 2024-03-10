@@ -1,9 +1,3 @@
-
-//VisiCalc
-//Jishnu Mehta
-//AP Computer Science
-//Period 7
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintStream;
